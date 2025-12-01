@@ -1,0 +1,10 @@
+build
+*.so
+aa_output
+datasets
+
+*.pyc
+__pycache__/
+*.egg-info/
+
+.vscode
