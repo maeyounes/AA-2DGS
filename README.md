@@ -25,6 +25,11 @@
     <img src="static/teaser_2.png" width="65%">
   </a>
 </p>
+<p align="center">
+  <a href="">
+    <img src="static/teaser_3.png" width="65%">
+  </a>
+</p>
 
 <p align="center">
 This repository contains the official implementation of AA-2DGS, an antialiased 2D Gaussian Splatting method that eliminates aliasing artifacts due to camera zoom, distances and varying fields of view by introducing a world-space flat smoothing kernel and object-space Mip filtering, preserving geometric accuracy while enabling high-quality rendering at arbitrary sampling rates.
