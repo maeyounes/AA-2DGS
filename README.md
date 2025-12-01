@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="">
-    <img src="static/teaser_1.png" width="50%">
+    <img src="static/teaser_1.png" width="65%">
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="static/teaser_2.png" width="50%">
+    <img src="static/teaser_2.png" width="65%">
   </a>
 </p>
 
